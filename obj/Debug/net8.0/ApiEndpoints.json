@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "szy.Api.Controllers.SystemController",
+    "Method": "GetDatabaseInfo",
+    "RelativePath": "api/System/db/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "szy.Api.Controllers.SystemController",
+    "Method": "CheckHealth",
+    "RelativePath": "api/System/health",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "szy.Api.Controllers.SystemController",
+    "Method": "GetSystemInfo",
+    "RelativePath": "api/System/info",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

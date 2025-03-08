@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "5elCGKIDxXhdwq3BI8Oo0dGj2QpL1FxDGggrj9TKUe8=",
+  "Source": "szy",
+  "BasePath": "_content/szy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "szy\\wwwroot",
+      "Source": "szy",
+      "ContentRoot": "D:\\work\\zt\\szy\\wwwroot\\",
+      "BasePath": "_content/szy",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\work\\zt\\szy\\wwwroot\\websocket-test.html",
+      "SourceId": "szy",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\work\\zt\\szy\\wwwroot\\",
+      "BasePath": "_content/szy",
+      "RelativePath": "websocket-test.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\websocket-test.html"
+    }
+  ]
+}

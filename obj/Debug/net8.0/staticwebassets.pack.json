@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\work\\zt\\szy\\wwwroot\\websocket-test.html",
+      "PackagePath": "staticwebassets\\websocket-test.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.szy.props",
+      "PackagePath": "build\\szy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.szy.props",
+      "PackagePath": "buildMultiTargeting\\szy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.szy.props",
+      "PackagePath": "buildTransitive\\szy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.szy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
